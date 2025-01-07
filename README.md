@@ -45,7 +45,7 @@ To start playing the game, simply clone or download the repository and run the s
 
 ## 🌟 Fun Fact
 
-Did you know? Number guessing games like this have been around for centuries! Some of the earliest versions of number guessing were used to help train mathematicians and statisticians in probability theory. Guessing might just be older than you think! 🤓
+Did you know? Number guessing games like this have been around for centuries! Some of the earliest versions of number guessing were used to help train mathematicians and statisticians in probability theory, Guessing might just be older than you think! 🤓
 
 ---
 
